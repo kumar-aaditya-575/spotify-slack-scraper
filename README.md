@@ -3,12 +3,15 @@ Scrapes a Slack channel for Spotify Song links and adds to a playlist of your ch
 
 
 ## requirements
-### pyperclip: pip3 install pyperclip
+#### pyperclip: pip3 install pyperclip
 
-### spotify-token: npm i -g spotify-token
-
-
+#### spotify-token: npm i -g spotify-token
 
 
-## usgae
-### python3 spotify-utils.py
+
+
+## usage
+#### replace the slack token: 'Bearer <USE your slack bot user token with read channel access which starts with xoxp >'
+
+
+#### python3 spotify-utils.py
